@@ -11,10 +11,7 @@ Instrukcje do poszczególnych laboratoriów znajdują się w odpowiednich folder
 * [Wzorzec `Observer`](lab7/Readme.md)
 
 # Zasady oceny
-
-Wyobraź sobie, że w tych zajęciach poza Tobą bierze udział mała *istota żywa*, która na początku jest
-*kościotrupem* (więc w zasadzie jest nieżywa). Wszystko co robisz w trakcie zajęć może przyczynić się do tego, że ta
-istota otrzyma trochę *czerwonych krwinek*. Jeśli osiągnie stan 12 czerwonych krwinek, to będzie *chuderlakiem*. 
+Na początku masz 2.0. Jak osiągniesz 12 punktów (krwinek) to zdajesz.
 
 ## Stan zdrowia
 
@@ -22,28 +19,27 @@ Poniższa tabela pokazuje jakie stadia zdrowotne może osiągnąć istota, któr
 
 | stan            | liczba czerwonych krwinek |
 |:----------------|---------------------------|
-| kościotrup      | < 14                      |
-| chuderlak       | 14 - 16,5                 |
-| kuracjusz       | 17 - 19,5                 |
-| na zwolnieniu   | 20 - 21,5                 |
-| krzepki móżdżek | 22 - 24,5                 |
-| okaz zdrowia    | >= 25                     |
+| 2.0             | < 14                      |
+| 3.0             | 14 - 16,5                 |
+| 3.5             | 17 - 19,5                 |
+| 4.0             | 20 - 21,5                 |
+| 4.5             | 22 - 24,5                 |
+| 5.0             | >= 25                     |
 
 
 ## Zdobywanie krwinek
 
-W trakcie zajęć masz różne możliwości zdobywania czerwonych krwinek dla swojej istoty, możesz:
+W trakcie zajęć masz różne możliwości zdobywania punktów możesz:
 
-* uprawiać ćwiczenia na sali gimnastycznej (+1 krwinka)
-* wziąć udział w zawodach lekkoatletycznych (max. +2 krwinki)
-* wysłać ją na kwarantannę (+10 krwinek)
-* wziąć udział w biegu katorżniczym, po którym robione jest badanie lekarskie (max. +8 krwinek)
-* wziąć udział w wycieczce rowerowej, po którym robione jest badanie krwi (max. +4 krwinki)
+* robić zadania laboratoryjne (+1)
+* grupowym wyborze tematu drugiego projektu (+2)
+* kolokwium (+10)
+* zrobić pierwszy projekt i dostać ocenę (max. +8)
+* zrobić drugi projekt i dostać ocenę (max. +4 krwinki)
 
-Wzięcie udziału w biegu katorżniczym możliwe jest tylko, jeśli twoja istota ma co najmniej 6 czerwonych krwinek.
+Pierwszy projekt możliwy jest tylko, jeśli conajmniej 6 punktów.
 
-Wzięcie udziału w wycieczce rowerowej możliwe jest tylko, jeśli twoja istota uzyskała minimum 4 czerwonych krwinek w
-badaniu krwi po biegu katorżniczym.
+Drugi projekt jest możliwy tylko, jeśli dostałeś conajmniej 4 punkty za pierwszy projekt.
 
 ## Plan
 
@@ -53,28 +49,17 @@ Poniższy diagram pokazuje kiedy można wykonywać poszczególne aktywności, zw
 | tydzień | wydarzenia        |
 |---------|-------------------|
 | 1       |                   |
-| 2       | sala gimanstyczna |
-| 3       | sala gimanstyczna |
-| 4       | sala gimanstyczna |
-| 5       | sala gimanstyczna |
-| 6       | sala gimanstyczna |
-| 7       | sala gimanstyczna |
-| 8       | zawody, bieg      |
-| 9       | bieg              |
-| 10      | kwarantanna, bieg |
-| 11      | badanie lekarskie |
-| 12      | wycieczka         |
-| 13      | wycieczka         |
+| 2       | laby              |
+| 3       | laby              |
+| 4       | laby              |
+| 5       | laby              |
+| 6       | laby              |
+| 7       | laby              |
+| 8       | grupowy wybór, p. projekt      |
+| 9       | pierwszy projekt              |
+| 10      | kolokwium, p. projekt |
+| 11      | ocena za p. projekt |
+| 12      | drugi projekt         |
+| 13      | drugi projekt         |
 | 14      | badanie krwi      |
 
-
-## Pseudonimy
-
-Uzyskiwanie czerwonych krwinek wymaga [podania pseudonimu] dla istoty żywej.
-
-Aktualny stan zdrowotny istot dostępny jest w [Hall of Fame].
-
-
-## Słowniczek
-
-Trudne terminy wyjaśnione są w [słowniczku](slownik.md)
